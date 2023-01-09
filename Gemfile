@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 gem 'sinatra', '1.4'
 gem 'unicorn', '~> 4.8'
 gem 'rake'
-gem 'git', '~> 1.2.6'
+gem 'git', '~> 1.11.0'
 gem 'octokit', '~> 3.0'
 gem 'resque', '~> 1.25'
 
